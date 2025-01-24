@@ -23,6 +23,15 @@ nav ul li {
     margin-bottom: 20px;
 }
 
+.centreText {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    font: 10px;
+}
+
 * {
     margin: 0;
     padding: 0;
